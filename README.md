@@ -57,4 +57,4 @@ For detailed explanation on how things work, checkout the [guide](https://github
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
 
-Zheplisnkyi IT-23
+Zheplisnkyi IT-23.
